@@ -6,10 +6,9 @@ I am Kaibin Yang, 杨凯彬。
 
 - [kailbin/vicroads-learner-permit-questions](https://github.com/kailbin/vicroads-learner-permit-questions) ABOUT **VicRoads learner permit questions**, Trying to catch **ALL OF THEM**.
 
-### Weixin MP (Media Press)
+### Weixin MP (Media Press) `子夏子`
 
 <img src="images/mp/mp-qrcode-standard.png" width="360px" alt="子夏子" />
-<center>COPY: <code>子夏子</code></center>
 
 
 ### Some Github Pages
