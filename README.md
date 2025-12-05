@@ -8,7 +8,7 @@ I am Kaibin Yang, 杨凯彬。
 
 ### Weixin MP (Media Press)
 
-![子夏子](images/mp/mp-qrcode-standard.png)
+<img src="images/mp/mp-qrcode-standard.png" alt="子夏子" style="zoom:33%;" />
 <center>COPY: <code>子夏子</code></center>
 
 
