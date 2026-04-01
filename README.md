@@ -7,9 +7,9 @@
 🦾 `MySQL` `Redis` `RabbitMQ`  `Kafka` `ElasticSearch`  
 💪🏻 `Grafana` `Prometheus` `Maven` `Git` `Gitlab` `Docker`  
 💪🏻 `Debuging` `Problem Solving` `Stakeholder Management` `Technical Documentation` `Team Leadership`  
-🫙 `JavaScript` `CSS` `HTML5` `Vue` `Lua` `Python` `Golang`
+🫙 `React` `Vue` `Lua` `Python` `Golang`
  
-🌱 Learning.. `#English` `#TypeScript` `#React` `#AWS`  `#PostgreSQL`
+🌱 Learning.. `#English` `#TypeScript` `#AWS`  `#PostgreSQL`
 
 
 #### Doing 
