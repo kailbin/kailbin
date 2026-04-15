@@ -3,8 +3,9 @@
 
 🚀 Java Backend Developer   
 
+<!--
 🦾 `Java` `Spring Boot` `Microservices` `Distributed Architecture`   
-🦾 `MySQL` `Redis` `RabbitMQ`  `Kafka` `ElasticSearch`  
+🦾 `MySQL` `Redis` `RabbitMQ`  `Kafka` `ElasitcSearch`  
 💪🏻 `Grafana` `Prometheus` `Maven` `Git` `Gitlab` `Docker`  
 💪🏻 `Debuging` `Problem Solving` `Stakeholder Management` `Technical Documentation` `Team Leadership`  
 🫙 `React` `Vue` `Lua` `Python` `Golang`
@@ -12,9 +13,12 @@
 🌱 Learning.. `#English` `#TypeScript` `#AWS`  `#PostgreSQL`
 
 
+
+
 #### Doing 
 
 [kailbin/vicroads-learner-permit-questions](https://github.com/kailbin/vicroads-learner-permit-questions) ABOUT **VicRoads learner permit questions**, Trying to catch **ALL OF THEM**.
+-->
 
 
 #### Weixin MP (Media Press) `子夏子`
